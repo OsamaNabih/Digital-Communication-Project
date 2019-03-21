@@ -18,3 +18,6 @@ Model parameters used:
 * Symbol period = 1s
 ### Scatter plots
 ![](BPSK/BPSK%20after%20noise.jpg)
+![](BPSK/BPSK%20before%20noise.jpg)
+### BER figure
+![](BPSK/BPSK%20ber.jpg)
