@@ -12,9 +12,13 @@ Model parameters used:
 * Number of bits per symbol = 1
 * Input signal power = 1
 * Symbol period = 1s
+
 Simulation time = 1000s
 
-All scatter plot photos are taken at the last simulation run (i.e with db = 10, the highest)
+
+All scatter plots are taken at the last simulation run. (i.e with db = 10, the highest)
+
+All scatter plots are scaled according to their respective data. (The axes ranges may differ) 
 
 ## 1. BPSK Modulation
 ### Description
@@ -80,9 +84,11 @@ Model parameters used:
 
     Set size = 16
 
+2. Modulator and demodulation
+
+    Normalization method = Average power
+
 All others parameters are the same as above
-3. Modulator and demodulation
-Normalization method = Average power
 
 ### Scatter plots
 ![](QAM16/Before%20noise.jpg) ![](QAM16/After%20noise.jpg)
@@ -100,9 +106,11 @@ Model parameters used:
 
     Set size = 64
 
-All others parameters are the same as above
 3. Modulator and demodulation
-Normalization method = Average power
+
+    Normalization method = Average power
+
+All others parameters are the same as above
 
 ### Scatter plots
 ![](QAM64/Before%20noise.jpg) ![](QAM64/After%20noise.jpg)
