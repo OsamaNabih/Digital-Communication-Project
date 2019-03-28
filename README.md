@@ -207,7 +207,7 @@ All parameters are the same as above
 All parameters are the same as above
 
 ### Scatter plots
-![](QAM64/RC%20after%20mod.jpg) ![](QAM64/RC%20Before%20demod.jpg)
+![](QAM64/RC%20after%20mod.jpg) ![](QAM64/RC%20before%20demod.jpg)
 
 ### Ber figure
 ![](QAM64/QAM64_RC(semilogY).jpg)
