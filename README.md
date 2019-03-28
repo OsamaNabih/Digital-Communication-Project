@@ -164,7 +164,7 @@ Parameters:
 All parameters are the same as above
 
 ### Scatter plots
-![](BPSK/RC%20After%20mod.jpg) ![](BPSK/RC%20before%20demod.jpg)
+![](BPSK/RC%20after%20mod.jpg) ![](BPSK/RC%20before%20demod.jpg)
 
 ### Ber figure
 ![](BPSK/BPSK_RC(semilogY).jpg)
@@ -174,7 +174,7 @@ All parameters are the same as above
 All parameters are the same as above
 
 ### Scatter plots
-![](QPSK/RC%20After%20mod.jpg) ![](QPSK/RC%20Before%20demod.jpg)
+![](QPSK/RC%20after%20mod.jpg) ![](QPSK/RC%20before%20demod.jpg)
 
 ### Ber figure
 ![](QPSK/QPSK_RC(semilogY).jpg)
@@ -187,7 +187,7 @@ These results are obviously wrong
 All parameters are the same as above
 
 ### Scatter plots
-![](FSK/RC%20After%20mod.jpg) ![](FSK/RC%20Before%20demod.jpg)
+![](FSK/RC%20after%20mod.jpg) ![](FSK/RC%20before%20demod.jpg)
 
 ### Ber figure
 ![](FSK/FSK_RC(semilogY).jpg)
@@ -197,7 +197,7 @@ All parameters are the same as above
 All parameters are the same as above
 
 ### Scatter plots
-![](QAM16/RC%20After%20mod.jpg) ![](QAM16/RC%20Before%20demod.jpg)
+![](QAM16/RC%20after%20mod.jpg) ![](QAM16/RC%20before%20demod.jpg)
 
 ### Ber figure
 ![](QAM16/QAM16_RC(semilogY).jpg)
@@ -207,7 +207,7 @@ All parameters are the same as above
 All parameters are the same as above
 
 ### Scatter plots
-![](QAM64/RC%20After%20mod.jpg) ![](QAM64/RC%20Before%20demod.jpg)
+![](QAM64/RC%20after%20mod.jpg) ![](QAM64/RC%20Before%20demod.jpg)
 
 ### Ber figure
 ![](QAM64/QAM64_RC(semilogY).jpg)
